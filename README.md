@@ -8,5 +8,5 @@
 
 24.02.04  - [ Numpy & Pandas ](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-04.md)
 
-24.02.05 - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-05.md)
+24.02.05 - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/b6564dbfd34e582086bf10d0ec85d4aab5b8ff12/FEB/2025-02-05.md)
 
