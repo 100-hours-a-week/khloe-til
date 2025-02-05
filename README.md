@@ -2,8 +2,11 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 첫째주, 1주차] : 
+### [ February , week 2 ] :
 
-24.02.03 재귀와 반복문에 대하여 ([25.02.03](https://github.com/100-hours-a-week/khloe-til/blob/e537946cd6f771d54e66707c34da1a8e21b4bd22/FEB/2025-02-03.md))
+24.02.03 - [재귀와 반복문에 대하여](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-03.md)
 
+24.02.04  - [ Numpy & Pandas ](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-04.md)
+
+24.02.05 - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-05.md)
 
