@@ -10,3 +10,5 @@
 
 24.02.05 - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/b6564dbfd34e582086bf10d0ec85d4aab5b8ff12/FEB/2025-02-05.md)
 
+24.02.06 - [Pandas (Intensive)](
+https://github.com/100-hours-a-week/khloe-til/blob/1b97bd9e17ddbcb436c111d464e1ae54bd0aad68/FEB/2025-02-06.md)
