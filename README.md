@@ -12,3 +12,6 @@
 
 24.02.06 - [Pandas (Intensive)](
 https://github.com/100-hours-a-week/khloe-til/blob/1b97bd9e17ddbcb436c111d464e1ae54bd0aad68/FEB/2025-02-06.md)
+
+24.02.07 - [데이터 분석 Deep Dive](
+https://github.com/100-hours-a-week/khloe-til/blob/fa6ee2219ea74f508c0d847726805cb5c5fc8ab6/FEB/2025-02-07.md)
