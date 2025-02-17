@@ -3,10 +3,24 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 
+### [ February , week 4 ] :
+
+24.02.17 - [ 다변수 미적분 ](https://github.com/100-hours-a-week/khloe-til/blob/71a05f50e0c3236cdd75910c192b1e4115947107/FEB/2025-02-17.md)
+
+
 ### [ February , week 3 ] :
 
-24.02.03 - [데이터 시각화 ](https://github.com/100-hours-a-week/khloe-til/blob/572ca1a1b37330d87b55ee0f248ecd95997191ac/FEB/2025-02-10.md)
+24.02.10 - [데이터 시각화 ](https://github.com/100-hours-a-week/khloe-til/blob/572ca1a1b37330d87b55ee0f248ecd95997191ac/FEB/2025-02-10.md)
 
+24.02.11 - [크램폴린 IDE 특강 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-11.md)
+
+24.02.12 - [Sci-py 심화 & 확률과 통계 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-12.md)
+
+24.02.13 - [Sci-py 심화 & 가설검정 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-13.md)
+
+24.02.14 - [시각화 Deep Dive ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-14.md)
+
+24.02.15 - [선형 대수2(선형변환)  ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-15.md)
 
 
 
