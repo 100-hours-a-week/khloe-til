@@ -7,6 +7,15 @@
 
 24.02.17 - [ 다변수 미적분 ](https://github.com/100-hours-a-week/khloe-til/blob/71a05f50e0c3236cdd75910c192b1e4115947107/FEB/2025-02-17.md)
 
+24.02.18 - [ 인공지능 기초, 근데 ML/DL을 살짝 곁들인 ] (https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-18.md)
+
+24.02.19 - [ 데이터 증강과 검증 대한 심화 학습 ] (https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-19.md)
+
+24.02.20 - [ API 서버 실습 ] (https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-20.md)
+
+24.02.21 - [ ML/DL Deep Dive ] (https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-21.md)
+
+24.02.22 - [ LLM with LangChain&Lang Graph ] (https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-22.md)
 
 ### [ February , week 3 ] :
 
