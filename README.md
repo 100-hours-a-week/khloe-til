@@ -1,55 +1,59 @@
-# What I Learned Today . . .
+# 📚 What I Learned Today (TIL)
 
-## 오늘 내가 배운 것들(Today I Learned)
+✨ 오늘 내가 배운 것들을 기록합니다.
 
+---
 
-### [ March , week 1 ] :
+# 📅 **March 2025**  
 
+## 📌 Week 1  
 
-### [ February , week 5 ] :
+📅 **24.03.04** - [ 딥러닝 II ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-04.md)
+📅 **24.03.05** - [ 딥러닝 II 심화 ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-05.md)
+📅 **24.03.06** - [ 딥러닝 알아두면 좋은 정보 & 최적화 케이스 ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-06.md)
+📅 **24.03.07** - [ 오프라인 토크쇼 & 멘토링  ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-07.md)
+📅 **24.03.08** - [ Streamlit ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-08.md)
 
-24.02.24 - [딥러닝 I](https://github.com/100-hours-a-week/khloe-til/blob/5787e963219ff96f9aa517689f4e4d54c38707b0/FEB/2025-02-24.md)
+---
 
-### [ February , week 4 ] :
+# 📅 **February 2025**  
 
-24.02.17 - [ 다변수 미적분 ](https://github.com/100-hours-a-week/khloe-til/blob/71a05f50e0c3236cdd75910c192b1e4115947107/FEB/2025-02-17.md)
+## 📌 Week 5  
 
-24.02.18 - [ 인공지능 기초, 근데 ML/DL을 살짝 곁들인 ](https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-18.md)
+📅 **24.02.24** - [딥러닝 I](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-24.md)  
 
-24.02.19 - [ 데이터 증강과 검증 대한 심화 학습 ](https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-19.md)
+---
 
-24.02.20 - [ API 서버 실습 ](https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-20.md)
+## 📌 Week 4  
 
-24.02.21 - [ ML/DL Deep Dive ](https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-21.md)
+📅 **24.02.22** - [ LLM with LangChain & Lang Graph ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-22.md)  
+📅 **24.02.21** - [ ML/DL Deep Dive ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-21.md)  
+📅 **24.02.20** - [ API 서버 실습 ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-20.md)  
+📅 **24.02.19** - [ 데이터 증강과 검증 대한 심화 학습 ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-19.md)  
+📅 **24.02.18** - [ 인공지능 기초, 근데 ML/DL을 살짝 곁들인 ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-18.md)  
+📅 **24.02.17** - [ 다변수 미적분 ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-17.md)  
 
-24.02.22 - [ LLM with LangChain&Lang Graph ](https://github.com/100-hours-a-week/khloe-til/blob/9010e921ce6d21cf70a3dbe9019062ce5feb1e2b/FEB/2025-02-22.md)
+---
 
-### [ February , week 3 ] :
+## 📌 Week 3  
 
-24.02.10 - [데이터 시각화 ](https://github.com/100-hours-a-week/khloe-til/blob/572ca1a1b37330d87b55ee0f248ecd95997191ac/FEB/2025-02-10.md)
+📅 **24.02.15** - [선형 대수2(선형변환)](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-15.md)  
+📅 **24.02.14** - [시각화 Deep Dive](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-14.md)  
+📅 **24.02.13** - [Sci-py 심화 & 가설검정](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-13.md)  
+📅 **24.02.12** - [Sci-py 심화 & 확률과 통계](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-12.md)  
+📅 **24.02.11** - [크램폴린 IDE 특강](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-11.md)  
+📅 **24.02.10** - [데이터 시각화](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-10.md)  
 
-24.02.11 - [크램폴린 IDE 특강 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-11.md)
+---
 
-24.02.12 - [Sci-py 심화 & 확률과 통계 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-12.md)
+## 📌 Week 2  
 
-24.02.13 - [Sci-py 심화 & 가설검정 ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-13.md)
+📅 **24.02.07** - [데이터 분석 Deep Dive](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-07.md)  
+📅 **24.02.06** - [Pandas (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-06.md)  
+📅 **24.02.05** - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-05.md)  
+📅 **24.02.04** - [ Numpy & Pandas ](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-04.md)  
+📅 **24.02.03** - [재귀와 반복문에 대하여](https://github.com/100-hours-a-week/khloe-til/blob/main/FEB/2025-02-03.md)  
 
-24.02.14 - [시각화 Deep Dive ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-14.md)
+---
 
-24.02.15 - [선형 대수2(선형변환)  ](https://github.com/100-hours-a-week/khloe-til/blob/4a4e54deaeec30ac966334ccebbabc5201b17b6a/FEB/2025-02-15.md)
-
-
-
-### [ February , week 2 ] :
-
-24.02.03 - [재귀와 반복문에 대하여](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-03.md)
-
-24.02.04  - [ Numpy & Pandas ](https://github.com/100-hours-a-week/khloe-til/blob/228a7af05223c7d8db7d0abe16f555d0549dae2f/FEB/2025-02-04.md)
-
-24.02.05 - [Numpy (Intensive)](https://github.com/100-hours-a-week/khloe-til/blob/b6564dbfd34e582086bf10d0ec85d4aab5b8ff12/FEB/2025-02-05.md)
-
-24.02.06 - [Pandas (Intensive)](
-https://github.com/100-hours-a-week/khloe-til/blob/1b97bd9e17ddbcb436c111d464e1ae54bd0aad68/FEB/2025-02-06.md)
-
-24.02.07 - [데이터 분석 Deep Dive](
-https://github.com/100-hours-a-week/khloe-til/blob/fa6ee2219ea74f508c0d847726805cb5c5fc8ab6/FEB/2025-02-07.md)
+✨ **계속해서 업데이트됩니다!** 🚀  
