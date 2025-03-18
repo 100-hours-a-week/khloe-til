@@ -6,6 +6,11 @@
 
 # 📅 **March 2025**  
 
+
+## 📌 Week 2
+📅 **24.03.10** - [ 생성형 AI ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-10.md)
+
+---
 ## 📌 Week 1  
 
 📅 **24.03.04** - [ 딥러닝 II ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-04.md)
