@@ -6,17 +6,31 @@
 
 # 📅 **March 2025**  
 
+## 📌 Week 3
 
-## 📌 Week 2
+📅 **24.03.17** - [ Database ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-17.md)
+
+📅 **24.03.18** - [ Database II ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-18.md)
+
+📅 **24.03.19** - [ Database III ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-19.md)
+
+## 📌 Week 2 (03.12 ~03.14 vacation)
+
 📅 **24.03.10** - [ 생성형 AI ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-10.md)
+
+ 📅 **24.03.11** - [ 생성형 AI 2 ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-11.md)
 
 ---
 ## 📌 Week 1  
 
 📅 **24.03.04** - [ 딥러닝 II ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-04.md)
+
 📅 **24.03.05** - [ 딥러닝 II 심화 ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-05.md)
+
 📅 **24.03.06** - [ 딥러닝 알아두면 좋은 정보 & 최적화 케이스 ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-06.md)
+
 📅 **24.03.07** - [ 오프라인 토크쇼 & 멘토링  ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-07.md)
+
 📅 **24.03.08** - [ Streamlit ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-08.md)
 
 ---
