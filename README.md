@@ -14,6 +14,10 @@
 
 📅 **24.03.19** - [ Database III ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-19.md)
 
+📅 **24.03.20** - [ Transaction & NoSQL ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-20.md)
+
+📅 **24.03.21** - [ Database DeepDive ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-21.md)
+
 ## 📌 Week 2 (03.12 ~03.14 vacation)
 
 📅 **24.03.10** - [ 생성형 AI ](https://github.com/100-hours-a-week/khloe-til/blob/main/MAR/2025-03-10.md)
